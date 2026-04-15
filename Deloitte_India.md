@@ -1,5 +1,7 @@
-# Deloitte India – Data Scientist
+# Deloitte India – Data Scientist (Analyst Role)
 
-The interview panel consisted of three members and was quite intense. I was asked deep questions on machine learning and deep learning concepts, including overfitting in models and edge cases like transformers. There were also questions on out-of-bag error and LLM parameters such as temperature.
+The interview panel for Deloitte India consisted of three members: an HR representative, a senior Data Scientist, and a relatively junior Data Scientist. This was a single round of interviews that lasted about twenty minutes, but it was incredibly intense. 
 
-The questioning style was quite aggressive, and the interview was relatively short. I was not selected after this round.
+They immediately asked core data science questions, focusing heavily on deep learning concepts. For example, they asked me to explain the reasons behind deep learning models overfitting, to which I answered that a lack of training data is often the culprit. The junior Data Scientist then followed up by asking if I knew the training token size of Llama. When I estimated it to be in the trillions, he challenged me to explain how overfitting could happen in Transformers, which caught me off guard. The rapid-fire questioning continued with topics specifically mentioned in my resume, such as explaining the out-of-bag error in random forests. They also probed my knowledge of Large Language Models, specifically asking about the temperature parameter and whether setting it to zero guarantees a deterministic output. I correctly answered that it does not but struggled to recall the exact technical reasoning on the spot, simply admitting that I had read about it recently.
+
+Overall, the junior Data Scientist was quite rude and asked questions in a noticeably derogatory manner, which made the environment slightly uncomfortable. The interview concluded with a few standard HR questions. Ultimately, I was not selected, and they hired a female candidate from our campus.
