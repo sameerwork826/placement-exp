@@ -1,5 +1,3 @@
-Here’s a cleaner, more polished version of your intro with a strong professional tone and your LinkedIn integrated nicely:
-
 ---
 
 # Interview Experiences – Sameer Wanjari
