@@ -11,14 +11,15 @@ Each company has been documented in a separate markdown file, covering everythin
 
 ## 🔗 Connect with Me
 
-* **LinkedIn:** [https://www.linkedin.com/in/sameerwanjari/](https://www.linkedin.com/in/sameerwanjari/)
+* **LinkedIn:** [Sameer Wanjari](https://www.linkedin.com/in/sameerwanjari/)
 
 ## 📚 Resources
 
-* **Online Assessments (OA):** Check out my detailed breakdown here:
-  [https://docs.google.com/spreadsheets/d/1UV8QKk-lSBxW8Qpq1aRKDd-D8pF_IyKRSu7EKkN1VFQ/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1UV8QKk-lSBxW8Qpq1aRKDd-D8pF_IyKRSu7EKkN1VFQ/edit?gid=0#gid=0)
+* **Online Assessments (OA):**
+  [View Google Sheet](https://docs.google.com/spreadsheets/d/1UV8QKk-lSBxW8Qpq1aRKDd-D8pF_IyKRSu7EKkN1VFQ/edit?gid=0#gid=0)
 
-* **Interview Rounds:** Explore individual company files in this repository for in-depth insights into each stage of the process.
+* **Interview Rounds:**
+  Browse the individual company markdown files in this repository.
 
 ---
 
