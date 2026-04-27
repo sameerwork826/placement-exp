@@ -1,11 +1,29 @@
-# Interview Experiences - Sameer Wanjari
+Here’s a cleaner, more polished version of your intro with a strong professional tone and your LinkedIn integrated nicely:
 
-Hi! I am **Sameer Wanjari**, a 5th-year student in the **IDD Engineering Physics** program.
+---
 
-I've put together this repository to share my detailed interview experiences with all the companies I interviewed with, specifically targeted to help juniors during their placement preparations. I've separated my experiences by company into different markdown files so you can easily navigate and learn from my journey.
+# Interview Experiences – Sameer Wanjari
 
-## Resources
-- **Online Assessments (OA):** Please refer to my [Google Sheet](https://docs.google.com/spreadsheets/d/1UV8QKk-lSBxW8Qpq1aRKDd-D8pF_IyKRSu7EKkN1VFQ/edit?gid=0#gid=0) to know exactly what each company asked in their Online Assessments.
-- **Interview Rounds:** Browse the individual company markdown files in this repository for in-depth insights into the technical and HR rounds.
+Hi! I’m **Sameer Wanjari**, a 5th-year student in the **Integrated Dual Degree (IDD) Engineering Physics** program.
 
-Best of luck with your placements!
+I’ve created this repository to share my interview experiences across the companies I applied to during placements. The goal is simple: to give juniors a clear, practical idea of what to expect and how to prepare effectively.
+
+Each company has been documented in a separate markdown file, covering everything from **Online Assessments (OA)** to **technical and HR interview rounds**, so you can easily navigate and focus on what you need.
+
+## 🔗 Connect with Me
+
+* **LinkedIn:** [https://www.linkedin.com/in/sameerwanjari/](https://www.linkedin.com/in/sameerwanjari/)
+
+## 📚 Resources
+
+* **Online Assessments (OA):** Check out my detailed breakdown here:
+  [https://docs.google.com/spreadsheets/d/1UV8QKk-lSBxW8Qpq1aRKDd-D8pF_IyKRSu7EKkN1VFQ/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1UV8QKk-lSBxW8Qpq1aRKDd-D8pF_IyKRSu7EKkN1VFQ/edit?gid=0#gid=0)
+
+* **Interview Rounds:** Explore individual company files in this repository for in-depth insights into each stage of the process.
+
+---
+
+Wishing you the very best for your placements—hope this helps you prepare smarter and feel more confident! 🚀
+
+---
+
